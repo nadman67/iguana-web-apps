@@ -1,0 +1,9 @@
+{
+   "Name": "271 parse test (From HTTP)",
+   "LuaDependencies": [
+      "EligibilityResponse"
+   ],
+   "OtherDependencies": [
+      "271V2_5010.vmd"
+   ]
+}
