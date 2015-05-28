@@ -1,0 +1,12 @@
+{
+   "Name": "Eligibility270 (From HTTP)",
+   "LuaDependencies": [
+      "DefaultValues",
+      "fuzzyparser",
+      "node",
+      "x12_mapfactory"
+   ],
+   "OtherDependencies": [
+      "270_5050.vmd"
+   ]
+}

@@ -1,0 +1,8 @@
+{
+   "Samples": [
+      {
+         "Message": "POST /Eligibility HTTP/1.1\r\nContent-Type: text/xml\r\nHost: brettaj-iguana.cloudapp.net:6544\r\nContent-Length: 677\r\nExpect: 100-continue\r\nConnection: Keep-Alive\r\n\r\n{\"PrescriberTo\":{\"NationalProviderId\":\"1234567890\",\"PrescriberName\":{\"FirstName\":\"Pat\",\"LastName\":\"Johnson\",\"MiddleName\":\"a\",\"Suffix\":null}},\"SubscriberTo\":{\"SubscriberName\":{\"FirstName\":\"Kara\",\"LastName\":\"Whiteside\",\"MiddleName\":null,\"Suffix\":null},\"SubscriberAddress\":{\"StateCode\":\"WI\",\"City\":\"Akron\",\"ZipCode\":\"44306\",\"Country\":null,\"AddressLine1\":\"2320 SEAPORT\",\"AddressLine2\":null},\"DateOfBirth\":\"1952-10-11T00:00:00\",\"GenderTerm\":\"100BDA23-A24B-48E9-A636-DE5A4E90733A\",\"IsDependent\":false},\"DateOfService\":\"2015-05-18T00:00:00\",\"TransferObjectBusinessCommandEK\":\"00000000-0000-0000-0000-000000000000\",\"TransferObjectTransactionTimePoint\":null,\"ResponsePatientContexts\":null,\"RequestPatientContexts\":null}",
+         "Name": ""
+      }
+   ]
+}
